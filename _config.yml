@@ -1,6 +1,6 @@
 title: Shivangi Rastogi
 logo: /assets/img/Shivangi_Rastogi.jpg
-description: 
+description: >
  <br>
  Data Science Learner
  <br><br>
@@ -9,8 +9,7 @@ description:
  <br><br>
  <a href="https://www.linkedin.com/in/shivangirastogi/">View my LinkedIn Profile</a> 
  <a href="shivangi.move@gmail.com"> Contact Email Id</a> 
- <br> Contact Number : <a href="+1 614-973-0358"></a> 
- <br>
+ Contact Number : <a href="+1 614-973-0358"></a> 
 
 show_downloads: true
 theme: jekyll-theme-minimal
